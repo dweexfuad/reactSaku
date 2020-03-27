@@ -1,2 +1,0 @@
-# reactSaku
-Created with CodeSandbox
